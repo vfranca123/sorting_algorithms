@@ -1,0 +1,2 @@
+Desenvolvido por Vitor Ferreira França ,aluno da UFSJ, no VSC com o sistema operacional Windows ,utilizando um terminal ubunto ,na linguagem C .
+utilize Make para compilar.
